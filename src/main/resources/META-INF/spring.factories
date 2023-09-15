@@ -1,0 +1,3 @@
+# springboot starter
+# org.springframework.boot.autoconfigure.EnableAutoConfiguration=??bean????????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.weeds.client.OpenApiClientConfig
